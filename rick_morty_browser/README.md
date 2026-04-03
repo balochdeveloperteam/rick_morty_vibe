@@ -4,6 +4,8 @@
 
 A production-style Flutter app that browses characters from the [Rick and Morty API](https://rickandmortyapi.com/), with offline cache, favorites, and Material 3 UI.
 
+📥 Download for Testing: > You can download the ready-to-install Android APK from the [Releases](https://github.com/balochdeveloperteam/rick_morty_vibe/releases/tag/v1.0.0) section.
+
 ---
 
 ## English
