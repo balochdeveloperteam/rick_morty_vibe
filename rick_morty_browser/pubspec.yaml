@@ -1,0 +1,27 @@
+name: rick_morty_browser
+description: Rick and Morty character browser — Clean Architecture, BLoC, Hive.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
+  get_it: ^8.2.0
+  dio: ^5.9.0
+  hive_flutter: ^1.1.0
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  equatable: ^2.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
